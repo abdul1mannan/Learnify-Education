@@ -3,10 +3,6 @@
   <br />
   <br />
   
-  <img src="./readme-images/project-logo.png" />
-
-  <h2 align="center">Learnify - Landing page</h2>
-
   Learnify is a fully responsive education landing page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href=""><strong>➥ Live Demo</strong></a>
