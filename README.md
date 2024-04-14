@@ -4,7 +4,7 @@
   
   Learnify is a fully responsive education landing page, Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://abdul1mannan.github.io/Learnify-Education/"><strong>➥ Live Demo</strong></a>
 </div>
 
 ### Prerequisites
