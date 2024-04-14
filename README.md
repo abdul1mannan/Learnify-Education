@@ -3,7 +3,7 @@
   <br />
   <br />
   
-  Learnify is a fully responsive education landing page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Learnify is a fully responsive education landing page, Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href=""><strong>➥ Live Demo</strong></a>
 
@@ -24,13 +24,13 @@ To run **Learnify** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone 
+sudo git clone https://github.com/abdul1mannan/Learnify-Education.git
 ```
 
 Windows:
 
 ```bash
-git clone 
+git clone https://github.com/abdul1mannan/Learnify-Education.git
 ```
 
 ### License
