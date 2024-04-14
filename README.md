@@ -1,5 +1,7 @@
 <div align="center">  
+  
   # Learnify - An Educational Platform
+  
   Learnify is a fully responsive education landing page, Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href=""><strong>➥ Live Demo</strong></a>
